@@ -17,7 +17,7 @@ darkmode: never
 # Social links
 #twitter_username: no_twitter_yet
 github_username:  umaraliyev0101
-telegram_username: umaraliyev0101
+#telegram_username: umaraliyev0101
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -33,7 +33,7 @@ linkedin_username: umaraliyev0101
 # Additional icon links
 additional_links:
 - title: Telegram
-  icon: <FontAwesomeIcon icon="fa-brands fa-telegram" />
+  icon: fa-brands fa-telegram
   url: t.me/umaraliyev0101
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
