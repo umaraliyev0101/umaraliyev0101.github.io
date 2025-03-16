@@ -12,7 +12,7 @@ email: d.umaraliyev@newuu.uz
 website: https://umaraliyev0101.github.io/
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: never
 
 # Social links
 #twitter_username: no_twitter_yet
@@ -33,7 +33,7 @@ linkedin_username: umaraliyev0101
 # Additional icon links
 additional_links:
 - title: Telegram
-  icon: fa-telegram
+  icon: <FontAwesomeIcon icon="fa-brands fa-telegram" />
   url: t.me/umaraliyev0101
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
