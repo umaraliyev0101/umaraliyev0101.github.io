@@ -9,7 +9,7 @@ version: 2
 name: Diyorbek Umaraliyev
 title: Aspiring AI Engineer 
 email: d.umaraliyev@newuu.uz
-website: https://umaraliyev0101.github.io/
+website: umaraliyev0101.github.io
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -32,7 +32,7 @@ linkedin_username: umaraliyev0101
 
 # Additional icon links
 additional_links:
-- title: Telegram
+- title: Telegram link
   icon: fab fa-telegram
   url: t.me/umaraliyev0101
 # - title: another link
@@ -49,9 +49,10 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile_pic.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Diyorbek and I am an AI & Robotics student at New Uzbekistan University with a strong passion for Machine Learning and Reinforcement Learning. I am constantly exploring ways to apply AI to real-world problems, improving my skills in TensorFlow, Deep Learning, and  Software Development.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+
+  I am most skilled in: <mark>Tensorflow</mark> and <mark>Bullet Chess</mark>
 
 content:
   - title: Projects # Title for the section
@@ -91,11 +92,11 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
+        title: New Uzbekistan University
+        caption: 2023 - 2027
         sub_title: BSc Computer Science
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          New Uzbekistan University is a modern institution focused on world-class education and research. Established with a vision of innovation and excellence, the university collaborates with leading international institutions to provide students with a strong foundation in science, technology, and engineering.
         description: | # this will include new lines to allow paragraphs
           During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
@@ -104,11 +105,11 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      Alongside my interests in AI and software engineering some of my other interests and hobbies are:
       - Table Tennis
       - Chess
       - Books
-      - Wasting time on COD speedruns
+      - Hiking
 
       Look at this cool image  
       ![Trees](/images/landscape-trees.jpg "Trees")
